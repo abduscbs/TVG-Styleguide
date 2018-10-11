@@ -1,0 +1,177 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "2d858c70-cd43-11e8-9216-9909da67fd8d",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6764654A-C5A4-4809-8AD1-5E01C4BC681C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "532A4FA8-FE51-4F43-9CC3-33E5C9E6D4F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "64D1C381-03E3-4A7D-884E-BDFB59B67E18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A9A8D66-0C53-4CD0-A580-781F3DC547E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8337AD8F-556F-4F63-8763-DCF462B70EEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6392FEF-1A1E-4F9C-B46D-D9537852EEEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "74E7285F-9119-4BB6-A8DD-5FD20A823F94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDC2EC4D-5813-4143-A38B-CCE6EDDB3701"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC5C3EA3-E93A-4D19-A06C-AEC58471FB17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3FC407A6-D6EF-4B6E-8330-C311BCF14405"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0921DA2-7132-4195-AFA6-C508D475826C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE80AFA2-EA50-4FC8-96C6-95D1B5AE739F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11D0E627-E6E0-4E55-9304-D7E507117054"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A84E7F25-698E-4FE7-BA2B-A07F6DDE95A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABD3174A-673C-4828-B421-A779C3E2EEAB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ED30FD0-350B-4C7D-989C-29AC6B323901"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D5ED50A-0BE6-44F4-8686-45D3E7508BE2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADB5F826-286E-4E95-9AE6-BB3F80247341"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D8A2F7B-0AF9-46EE-815E-413EF2CD6C15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62E1C6C1-DCDD-4BD1-889C-A1F99CB73B0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "890AE72E-5C86-48CD-89AE-3FC26D142B60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A798EF8-097A-43FF-B724-124F0D4DCA03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F51ED29F-4880-4046-B280-1384620AC338"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A41EE4A5-EAC2-49A9-B49B-A0717DFEAA9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCA2D892-E820-4C21-8AA1-A6C7CF045F0E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5700EE21-6876-4378-9E4A-5CD6A6640BCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBBB2833-01EF-4008-9EF7-04169080CCBA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E875ECE-66FE-4465-968C-FFDB9468843C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "779CE35A-F493-4AA7-A04C-7B395708D85D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE5902A6-5903-415F-970F-954A814346CC"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
