@@ -49,8 +49,8 @@
       "id": "8EE8CF9E-91FE-4A15-BE70-97E08DEF76B0"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "device",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

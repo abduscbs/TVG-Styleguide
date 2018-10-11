@@ -34,8 +34,8 @@
       "id": "1E42451D-411A-4970-9634-111C838C2514"
     }
   ],
-  "name": "Oval",
-  "nameIsFixed": false,
+  "name": "circle",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
